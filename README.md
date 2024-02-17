@@ -12,13 +12,17 @@ https://www.creativevillage.ne.jp/category/event-list/145735/
 << 登壇者 >>
 
 アントノフ・イワン
+
 株式会社クリーク･アンド･リバー社 / COYOTE 3DCG STUDIO 背景デザイナー
+
 ロシア出身。2013年に建築大学卒業後、就職分野を3Dデザイナーに変更しMy.Games社のAllods Teamというスタジオに入社。
 2018年に京都の日本語学校で日本語を勉強し、2020年にC&R社のCOYOTE 3DCG STUDIOに入社。
 現在は背景デザイナーとして、コンシューマーゲーム内のアセット、シェーダ、プロシージャルツールの制作を担当している。
 
 鈴木 ひさ子
+
 株式会社クリーク･アンド･リバー社/COYOTE 3DCG STUDIO 背景デザイナー
+
 愛知県出身。大学卒業後、クリエイティブアカデミーを経て C&R社 COYOTE 3DCG STUDIOに入社。
 現在は背景デザイナーの一人として、コンシューマーゲーム内のアセット制作を担当している。
 
@@ -27,10 +31,11 @@ https://www.creativevillage.ne.jp/category/event-list/145735/
 
 今回のイベント内容が書かれたブログ記事：
 https://3d.crdg.jp/env/2023/11/27/3239/
-Deferred Decalsを使い、Overwatchのようなビルの角の制作方法
+
 
 3DCG背景デザイナーの為のまとめサイト：
 https://3d.crdg.jp/env/
+
 
 クリーク･アンド･リバー社（C＆R社）が運営するゲーム専門3DCG制作チーム：
 https://3d.crdg.jp/
